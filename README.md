@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/pub/v/gome_dropdown.svg)](https://pub.dev/packages/gome_dropdown)
+
 # gome_dropdown
 
 A reusable, customizable `Dropdown<T>` widget for Flutter projects. Works well with any type and supports advanced behavior like:
